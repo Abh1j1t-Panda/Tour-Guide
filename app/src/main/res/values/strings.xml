@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="japan">Japan</string>
+    <string name="china">China</string>
+    <string name="us">United States</string>
+    <string name="india">India</string>
+    <string name="about_tajmahal">"The *Taj Mahal* is a mausoleum complex located in Agra, Uttar Pradesh, India. It was built by the Mughal emperor Shah Jahan in memory of his wife Mumtaz Mahal, who died in 1631 ¹. The construction of the Taj Mahal began in 1632 and was completed in 1653 ¹. The complex is made up of several buildings, including a mosque and a guest house ¹. The Taj Mahal is widely regarded as one of the most beautiful buildings in the world and is a UNESCO World Heritage Site ¹³. It is also considered to be one of the finest examples of Mughal architecture, which is a blend of Indian, Persian, and Islamic styles ¹. The white marble structure is adorned with intricate carvings and inlaid with precious stones such as lapis lazuli and jade ¹. The four minarets surrounding the main dome are tilted slightly outward to prevent them from falling on the tomb in case of an earthquake ⁴. The Taj Mahal's gardens are laid out in a classic Persian style with water channels and fountains ⁴. The monument attracts millions of visitors every year and is open to visitors from sunrise to sunset, except on Fridays when it is closed for prayers "</string>
+</resources>
